@@ -42,6 +42,7 @@ Thanks for stopping by! I'm Hamza Turabieh, currently living in  Kansas, USA. I 
         <td>
             <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white" height="27"/></a>
             <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white" height="27"/></a>
+		<a href="https://www.snowflake.com/en/" target="_blank"><img alt="Snowflake" src="https://img.shields.io/badge/-Snowflake-ffd43b?style=flat-square&logo=snowflake&logoColor=white" height="27"/></a>
         </td>
     </tr>
     <tr>
