@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Thanks for stopping by! I'm Hamza Turabieh, currently living in  Kansas, USA. I am passionate about Data Science and I learn every day in this exciting, ever changing field.
+
+
 <!--
 **turabieh/turabieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
